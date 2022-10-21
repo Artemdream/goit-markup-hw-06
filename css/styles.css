@@ -692,10 +692,6 @@ overflow: hidden;
   pointer-events: none;
 }
 
-.modal-field {
-  
-}
-
 .modal-field:last-child {
   margin-bottom: 0;
 }
